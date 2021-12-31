@@ -11,7 +11,7 @@
 
 </p>
 <p align="center">
-  <img alt="rocket-shoes app example" src="./rocket-shoes.png" width="100%" height="80%">
+  <img alt="rocket-shoes app example" src="./rocket-shoes.png" width="100%">
 </p>
 
 <h3>Projeto</h3>
